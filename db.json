@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "vsv",
+      "price": "1231",
+      "year": "31231",
+      "image": "assets/images/macbook.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "1231",
+      "price": "123123",
+      "year": "31231",
+      "image": "assets/images/macbook.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "42342",
+      "price": "222222222",
+      "year": "22222222",
+      "image": "assets/images/macbook.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "22222222",
+      "price": "44444444",
+      "year": "4444444",
+      "image": "assets/images/macbook.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 6,
+      "title": "vxdvxd",
+      "price": "",
+      "year": "",
+      "image": "assets/images/macbook.jpg",
+      "congigure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 4,
+      "title": "42342",
+      "price": "222222222",
+      "year": "22222222",
+      "image": "assets/images/macbook.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      },
+      "quantity": 5
+    },
+    {
+      "id": 1,
+      "title": "vsv",
+      "price": "1231",
+      "year": "31231",
+      "image": "assets/images/macbook.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      },
+      "quantity": 4
+    }
+  ]
+}
